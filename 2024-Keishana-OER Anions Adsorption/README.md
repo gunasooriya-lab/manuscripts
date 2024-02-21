@@ -1,9 +1,9 @@
-Acid Electrolyte Anions Adsorption Effects on IrO2 Electrocatalysts for Oxygen Evolution Reaction
-Authors: S.A. Keishana Navodye, G.T. Kasun Kalhara Gunasooriya
+# Acid Electrolyte Anions Adsorption Effects on IrO2 Electrocatalysts for Oxygen Evolution Reaction
+S.A. Keishana Navodye, G.T. Kasun Kalhara Gunasooriya
 
-In VASP_structure_files directory, you could find the final structures (CONTCAR) of all electronic structure optimizations under four categories (unitcell, low_coverage,  high_anions_coverage and high_surface_O_coverage).
+This repository contains the VASP-optimized final structures (CONTCAR) of all the electronic structure optimizations (unitcell, low_coverage,  high_anions_coverage, and high_surface_O_coverage).
 
-In each category, VASP_inputs directory consists of example INCAR and KPOINTS file used to run the electronic structure optimizations.
+In each folder, the VASP_inputs directory consists of sample INCAR and KPOINTS files used to run the electronic structure optimizations.
 
 Software: VASP 5.4.1, functional: PBE
 
